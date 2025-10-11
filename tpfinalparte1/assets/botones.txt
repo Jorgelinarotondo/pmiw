@@ -1,0 +1,26 @@
+Inicio
+Siguiente
+Creditos
+Investigar la luz en el bosque.
+Preguntar a Stan.
+Irse a dormir.
+Seguir las luciernagas azules. 
+Seguir las marcas en los árboles. 
+Entrar en la cueva oscura.
+Leer las inscripciones.  
+Liberar lo que hay dentro. 
+Resolver el puzzle. 
+Forzar la caja. 
+Rendirse y volver a los senderos. 
+Usar la llave en el aparato. 
+Aceptar el trato. 
+Negarse. 
+Mabel intenta convencerlo. 
+No intentan convencerlo. 
+Intentar robar el detector. 
+Irse a dormir. 
+Cerrar el diario.
+Volver al inicio.
+
+
+
